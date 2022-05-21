@@ -26,14 +26,8 @@
   ##
   
 <img src="https://img.shields.io/static/v1?label=Overview&message=Miguel Ferreira&color=f8efd4&style=for-the-badge&logo=GitHub">
-
 <p>
-
-Act
-
 I'm Currently focused on mobile Front-end development, looking to improve the quality of <br>
 my code and looking for new challenges, hope you enjoy!
-
-
 </p>
 <hr>
